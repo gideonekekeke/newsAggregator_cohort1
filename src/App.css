@@ -1,0 +1,6 @@
+.vid {
+	display: none;
+}
+.card:hover .vid {
+	display: block;
+}
